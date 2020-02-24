@@ -1,4 +1,4 @@
-# stoudy_golang
+# study_golang
 golang勉強用リポジトリ
 
 1. hello world
